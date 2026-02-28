@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_BUG", "SSIS_BUG.dtproj", "{922D8DDC-798B-DE23-6DA5-2A7F38C8E161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922D8DDC-798B-DE23-6DA5-2A7F38C8E161}.Development|Default.ActiveCfg = Development
+		{922D8DDC-798B-DE23-6DA5-2A7F38C8E161}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0703F1F8-B4B2-4F31-8CCE-51E434AFF6BF}
+	EndGlobalSection
+EndGlobal
